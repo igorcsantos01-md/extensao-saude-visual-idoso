@@ -1,0 +1,6 @@
+{
+  "name": "Extensão Saúde — Inclusão Visual do Idoso (Certificado Nº 07)",
+  "description": "Portal Interinstitucional de Extensão, Validação Pública de Fé Acadêmica e Acervo Acessível sobre Catarata e Degeneração Macular na Terceira Idade (Editora Mente e Saúde & Centro Profissionalizante Maria Dalva de Araújo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
